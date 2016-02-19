@@ -1,2 +1,2 @@
-# Violet
-I hate my family.com
+#Violet
+I love Pintrest.com
