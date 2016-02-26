@@ -1,1 +1,9 @@
-
+.products li {
+    width: 200px;
+    min-height: 200px;
+    border: 1xp solid black;
+    padding: 5xp:
+    list-style: none;
+    display: inline-block;
+    margin: 5xp;
+}
